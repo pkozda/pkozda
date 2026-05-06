@@ -49,7 +49,7 @@
 
 ## 📫 Contact
 
-- LinkedIn: [pavel-kozda](https://www.linkedin.com/in/pavel-kozda-a59a59aa/)
+- LinkedIn: [pavel-kozda](https://www.linkedin.com/in/pavlo-kozda-a59a59aa/)
 - Email:    pavel.kozda@gmail.com
 
 ---
